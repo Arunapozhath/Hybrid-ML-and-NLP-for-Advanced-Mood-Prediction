@@ -2,7 +2,7 @@
 # Hybrid-ML-and-NLP-for-Advanced-Mood-Prediction
 
 ## *Project Overview*
-MindFlow is a comprehensive mental health mood prediction system designed to monitor an individual’s mood and mental well-being using a combination of machine learning (ML), deep learning (DL), and NLP techniques. The project integrates various models, including a Linear Regressor, LSTM, and BERT, to analyze sentiment scores and time series data, providing actionable insights through an interactive GUI built with Streamlit.
+This is a comprehensive mental health mood prediction system designed to monitor an individual’s mood and mental well-being using a combination of machine learning (ML), deep learning (DL), and NLP techniques. The project integrates various models, including a Linear Regressor, LSTM, and BERT, to analyze sentiment scores and time series data, providing actionable insights through an interactive GUI built with Streamlit.
 
 ## *Dataset*
 The project utilizes a custom dataset containing 20 features related to mental health. Key features include:
